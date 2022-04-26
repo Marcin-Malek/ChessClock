@@ -1,6 +1,6 @@
 # ChessClock
 
-This is an Android app I have created in 2020 for my personal use. It is a simple looking chess clock with intuitive UI, you can set it to classic time control as well as increment timing method.
+This is an Android app I have created in 2020 for my personal use and decided to share it now as I learned Git. It is a simple looking chess clock with intuitive UI, you can set it to classic time control as well as increment timing method.
 
 ## Screenshots 
 
